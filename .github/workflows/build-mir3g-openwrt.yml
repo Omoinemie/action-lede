@@ -19,7 +19,7 @@ name: Build mir3g OpenWrt
 #  schedule:
 #    - cron: 30 0 * * 5
 #  watch:
-    types: started
+#    types: started
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
